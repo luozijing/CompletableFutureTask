@@ -1,2 +1,2 @@
 # CompletableFutureTask
-java  CompletableFuture api for async task
+use java CompletableFuture api for async tasks
